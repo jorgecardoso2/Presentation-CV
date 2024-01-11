@@ -11,13 +11,13 @@ last_name: Cardoso Oe
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚽
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: La vida es una simulación
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
